@@ -7,7 +7,7 @@ Must follow the wireframe given in class
 
 # Requirements
 
-##For index.html
+For index.html
 
 - [ ] Header
   Must contain the repository owner's name and a nav with all the sections of the website, which must lead the user to that section when clicked
@@ -22,12 +22,13 @@ Must follow the wireframe given in class
 - [ ] Footer
   Info related to the student
 
-##For repo.html
+- [ ] Restriction: Apply bootstrap for the cards and carousel
+
+For repo.html
 Follow the wirefreame
 It should have a header, similar to the one at index.html, but containing links and the name of the repository.
 on the main section it should have a description of the repository, date of creation, the languages used, an access link, and a list of topics.
 
 - Try to follow the mobile first paradigm
-- Apply bootstrap for the cards and carousel
 - Mobile design is to be designed according to the developer's will
 
