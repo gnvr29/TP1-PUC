@@ -3,6 +3,8 @@ First practical assignment in the first semester of my software engineering  cou
 
 Must follow the wireframe given in class
 
+![image-4](https://github.com/gnvr29/TP1-PUC/assets/62761033/f4ab6eeb-e187-4d84-8881-d61fc983b505)
+
 # Requirements
 
 ##For index.html
