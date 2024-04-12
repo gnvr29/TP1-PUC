@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+header, main {
+    overflow: hidden;
+}
+
 #name-button {
     background-color: lightgray;
 }
