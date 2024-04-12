@@ -10,3 +10,7 @@ header, main {
 #name-button {
     background-color: lightgray;
 }
+
+a {
+    text-decoration: none;
+}
