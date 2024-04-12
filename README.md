@@ -9,9 +9,9 @@ Must follow the wireframe given in class
 
 For index.html
 
-- [ ] Header
+- [x] Header
   Must contain the repository owner's name and a nav with all the sections of the website, which must lead the user to that section when clicked
-- [ ] Section 1:
+- [x] Section 1:
   Present your github profile, with its picture, name, surname, description, and contact buttons (e-mail, linkedin, etc.)
 - [ ] Section 2:
   Group of cards with (at least) three directories of the user, with (at least) one of them being linked to a second website further describing it
