@@ -13,9 +13,9 @@ For index.html
   Must contain the repository owner's name and a nav with all the sections of the website, which must lead the user to that section when clicked
 - [x] Section 1:
   Present your github profile, with its picture, name, surname, description, and contact buttons (e-mail, linkedin, etc.)
-- [ ] Section 2:
+- [x] Section 2:
   Group of cards with (at least) three directories of the user, with (at least) one of them being linked to a second website further describing it
-- [ ] Section 3:
+- [x] Section 3:
   Carousel with at least five images related to the tech industry chosen by the student
 - [ ] Section 4:
   Grid showing at least three of the person's main colleagues
