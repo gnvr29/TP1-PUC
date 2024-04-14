@@ -17,12 +17,12 @@ For index.html
   Group of cards with (at least) three directories of the user, with (at least) one of them being linked to a second website further describing it
 - [x] Section 3:
   Carousel with at least five images related to the tech industry chosen by the student
-- [ ] Section 4:
+- [x] Section 4:
   Grid showing at least three of the person's main colleagues
-- [ ] Footer
+- [x] Footer
   Info related to the student
 
-- [ ] Restriction: Apply bootstrap for the cards and carousel
+- [x] Restriction: Apply bootstrap for the cards and carousel
 
 For repo.html
 Follow the wirefreame
