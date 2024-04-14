@@ -18,3 +18,11 @@ header, main, footer {
 a {
     text-decoration: none;
 }
+
+.copyright-message {
+    font-size: 12px;
+}
+
+@media only screen and (min-width : 1400px) {
+    .container { max-width: 5000px; } 
+}
