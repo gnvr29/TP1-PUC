@@ -3,10 +3,6 @@
     margin: 0;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 header, main, footer {
     overflow: hidden;
 }
@@ -17,10 +13,6 @@ header, main, footer {
 
 a {
     text-decoration: none;
-}
-
-.carousel-inner {
-    box-shadow: 0 0 10px black;
 }
 
 .copyright-message {
@@ -35,13 +27,4 @@ a {
     a {
         text-decoration: none;
     }
-
-    #my-pic {
-        max-height: 400px;
-    }
-
-    #carouselExampleCaptions {
-        max-width: 1200px;
-    }
-
 }
